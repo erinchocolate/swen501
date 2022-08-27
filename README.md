@@ -10,10 +10,10 @@ This repository contains my notes and solutions to labs and projects of this cou
 
 ### Lab
 
-- [Student System]
-- [Accounts System]
-- [Library System]
+- [Student System](https://github.com/erinchocolate/swen501/tree/master/Java-student-system)
+- [Accounts System](https://github.com/erinchocolate/swen501/tree/master/Java-accounts-system)
+- [Library System](https://github.com/erinchocolate/swen501/tree/master/Java-library-system)
 
 Project
 
-- [Diagram Editor]
+- [Diagram Editor](https://github.com/erinchocolate/swen501/tree/master/Java-diagram-editor)
